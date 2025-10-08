@@ -2,7 +2,7 @@
 
 ### Author: Johnson Ogutu | Data Scientist & Analyst  
 📧 ogutujohnson615@gmail.com 
-🌐   github link:
+🌐   github link:https://github.com/johnson-ogutu
 
 ---
 
