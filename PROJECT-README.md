@@ -102,4 +102,4 @@ The dataset represents car listings from various online automobile marketplaces 
 ## 👤 About the Author
 **Johnson Ogutu** – Freelance Data Scientist  
 Passionate about turning raw data into intelligent business insights.  
-📧 ogutujohnson615@gmail.com| 💻 github account:
+📧 ogutujohnson615@gmail.com| 💻 github account:https://github.com/johnson-ogutu
